@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/goroda/static/css/main.7acaea2f.css",
-    "main.js": "/goroda/static/js/main.07d3183d.js",
+    "main.js": "/goroda/static/js/main.391eafaf.js",
     "index.html": "/goroda/index.html",
     "main.7acaea2f.css.map": "/goroda/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goroda/static/js/main.07d3183d.js.map"
+    "main.391eafaf.js.map": "/goroda/static/js/main.391eafaf.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.391eafaf.js"
   ]
 }
